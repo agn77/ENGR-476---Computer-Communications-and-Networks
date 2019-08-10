@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538688670 source:c:\users\berto\documents\sfsu courses\fall 2018\engr 476\lab2\main.c
+	<stdio.h>
+	<conio.h>
+
