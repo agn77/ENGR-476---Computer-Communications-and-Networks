@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537477721 source:c:\users\berto\documents\sfsu courses\fall 2018\engr 476\lab1\main.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+

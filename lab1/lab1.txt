@@ -1,0 +1,8 @@
+Student Name	Student NO.	Subject A	Subject B
+Joan            1          	 70.5        	85  
+Tania           2         	 59         	75
+Tom             3         	 53         	54
+Jeff            4         	 80         	49.5
+Susan           5         	 89         	90
+Kathy           6         	 99         	55
+Raymond         7         	 22.5         	75 
